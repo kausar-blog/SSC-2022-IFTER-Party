@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background: url(img.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div{
+    padding: 50px;
+    border-radius: 30px;
+    background: linear-gradient(180deg,hsl(210, 100%, 75%),hsl(40, 100%, 750%));
+    box-shadow: 2px 2px 5px hsl(0,0%,0%,0.5);
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.date{
+    color: blue;
+    font-size: 56px;
+}
+.hi{
+    color: chartreuse;
+}
+h1{
+    font-size: 45px;
+    color: rgb(13, 180, 49);
+
+}
+h3{
+    font-size: 20px;
+    color: rgba(0,0,0,0.3);
+}
+
+.id{
+    color: rgba(192, 9, 122, 0.7);
+    font-size: 25px;
+}
+#name{
+    color: red;
+    font-size: 20px;
+}
+.wow{
+    color: rgb(192, 189, 19);
+}
+#tks{
+    color: rgba(80, 14, 202, 0.979);
+    font-size: 22px;
+    font-weight: bold;
+
+}
+b{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.kausar{
+    color: burlywood;
+    font-size: large;
+    font-weight: lighter;
+}
+.kk{
+    color: rgba(61, 81, 196, 0.7);
+}
+.alld{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+
+
+
+
+
+}
